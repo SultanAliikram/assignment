@@ -1,0 +1,524 @@
+.main{
+	height: auto;
+	width: auto;
+	margin: 2%;
+}
+.No-1{
+	background-color: lightgrey;
+	height: 440px;
+	width: 100%;
+	border: 1px solid lightgrey;
+}
+.logo{
+	width: 90%;
+	margin: 5%;
+	font-size: 180%;
+	font-weight: bold;
+	float: left;
+	position: relative;
+}
+.logo ul{
+	margin-left: 1%;
+	width: 10%;
+	height: 40px;
+	margin-top: 2%;
+	position: relative;
+	float: left;
+}
+.Nav ul{
+	margin-right: 2%;
+	position: relative;
+	float: right;
+	width: 60%;
+	list-style: none;
+}
+.Nav ul li{
+	font-weight: lighter;
+	font-size: 70%;
+	display: inline;
+	margin-left: 4%;
+}
+.Text-1{
+	margin-left: 5%;
+	margin-top: 18%;
+	height: 100px;
+	width: 40%;
+	font-weight: bold;
+
+}
+.Text-1 ul{
+		margin-left: 2%;
+	font-size: 250%;
+}
+.Button{
+	margin-top: 2%;
+	margin-left: 10%;
+}
+.Button button{
+	border-style: none;
+	border-radius: 50px;
+	background-color: gold;
+	height: 70px;
+	width: 200px;
+}
+.No-2{
+		height: 400px;
+	    width: 100%;
+	    border: 1px solid white;
+}
+.Text-2 ul{
+	text-align: center;
+	font-size: 300%;
+	font-weight: bold;
+}
+.Text-2 ol{
+	text-align: center;
+}
+.Box1{
+	margin-left: 8%;
+	height: 40%;
+	width: 20%;
+	float: left;
+	position: relative;
+}
+.Box1 ul{
+	font-weight: bold;
+}
+.Box2{
+	margin-right: 12%;
+	height: 40%;
+	width: 20%;
+	float: right;
+	position: relative;
+}
+.Box2 ul{
+	font-weight: bold;
+}
+.Box3{
+	margin-right: 10%;
+	
+	height: 40%;
+	width: 20%;
+	float: right;
+	position: relative;
+}
+.Box3 ul{
+	font-weight: bold;
+}
+.No-3{
+	background-color: black;
+	height: 200px;
+	width: 100%;
+	border: 1px solid black;
+}
+.Text-3{
+	margin-top: 5%;
+	margin-left: 20%;
+	height: 40%;
+	width: 55%;
+	font-size: 120%;
+}
+.Text-3 ul{
+	color: gold;
+}
+.Text-3 ul ol{
+	color: gold;
+	margin-left: 11%;
+}
+.No-4{
+	height: 400px;
+	width: 100%;
+	border: 1px solid white;
+}
+.Text-4{
+	margin-top: 2%;
+	margin-left: 20%;
+	height: 35%;
+	width: 55%;
+	text-align: center;
+}
+.Text-4 ul{
+	font-size: 200%;
+	font-weight: bold;
+}
+.Text-4 ol{
+	font-size: 90%;
+	font-weight: lighter;
+}
+.Box4{
+	background-color: gold;
+	margin-top: 2%;
+	margin-left: 16%;
+	height: 40%;
+	width: 15%;
+	float: left;
+	position: relative;
+}
+.Box4 ul{
+	color: black;
+	margin-left: 10%;
+	margin-top:34%;
+	font-weight: bold; 
+
+}
+.Box4 ol{
+	margin-left: 14%;
+	font-size: 80%;
+
+}
+.Box5{
+	background-color: black;
+	margin-top: 2%;
+	height: 40%;
+	width: 15%;
+	float: right;
+	position: relative;
+	margin-right: 21%;
+}
+.Box6{
+	background-color: black;
+	margin-top: 2%;
+	height: 40%;
+	width: 15%;
+	float: right;
+	position: relative;
+	margin-right: 8%;
+}
+.No-5{
+	background-color: black;
+	height: 300px;
+	width: 100%;
+	border: 1px solid black;
+}
+.N-text1 ul{
+	text-align: center;
+	color: white;
+	font-size: 250%;
+	font-weight: bold;
+}
+.N-text1 ol{
+	text-align: center;
+	color: white;
+	font-size: 95%;
+}
+.N-Box1{
+	height: 30%;
+	width: 15%;
+	float: left;
+	position: relative;
+	margin-left: 9%;
+}
+.N-Box1 ul{
+	font-weight: bold;
+	font-size: 150%;
+	color: white;
+}
+.N-Box1 ol{
+	color: gold;
+	margin-left: 5%;
+	font-size: 40%;
+	margin-bottom: 20%;
+}
+.N-Box2{
+	margin-right: 7%;
+	height: 30%;
+	width: 15%;
+	float: right;
+	position: relative;
+}
+.N-Box2 ul{
+	margin-left: 10%;
+	font-weight: bold;
+	font-size: 150%;
+	color: white;
+}
+.N-Box2 ol{
+	color: gold;
+	font-size: 40%;
+	margin-left: 10%;
+}
+.N-Box3{
+	height: 30%;
+	width: 15%;
+	float: right;
+	position: relative;
+	margin-right: 7%;
+}
+.N-Box3 ul{
+	font-weight: bold;
+	font-size: 150%;
+	color: white;
+	margin-left: 10%;
+}
+.N-Box3 ol{
+	color: gold;
+	font-size: 40%;
+}
+.N-Box4{
+	height: 30%;
+	width: 15%;
+	float: right;
+	position: relative;
+	margin-right: 10%;
+}
+.N-Box4 ul{
+	font-weight: bold;
+	font-size: 150%;
+	color: white;
+	margin-left: 10%;
+}
+.N-Box4 ol{
+	color: gold;
+	font-size: 40%;
+}
+.No-6{
+	background-color: gold;
+	height: 120px;
+	width: 100%;
+	border: 1px solid gold;
+}
+.N-text2 ul{
+	position: relative;
+	float: left;
+	font-size: 200%;
+	margin-left: 16%;
+	font-weight:bold;
+	width: 70%;
+	height: 60px;
+}
+.N-text2 ul ol{
+	position: relative;
+	float: right;
+	color: gold;
+	margin-left: 2%;
+	font-size: 40%;
+	margin-top: 1%;
+	margin-right: 3%;
+	background-color:black ;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-right: 4%;
+	border-radius: 50px;
+}
+.No-7{
+	height: 300px;
+	width: 100%;
+	border: 1px solid black;
+	background-color: black;
+}
+.N-text3 ul{
+	text-align: center;
+	color: white;
+	font-size: 200%;
+	font-weight: bold;
+}
+.N-text3 ol{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 75%;
+}
+.SBox1{
+	margin-left: 16%;
+	height: 35%;
+	width: 16%;
+	float: left;
+	position: relative;
+}
+.SBox1 ul{
+	font-size: 95%;
+	font-weight: bold;
+	color: white;
+
+}
+.SBox1 ol{
+	font-size: 60%;
+	color: white;
+	font-weight: lighter;
+}
+
+.SBox2{
+	height: 35%;
+	width: 16%;
+	float: right;
+	position: relative;
+	margin-right: 21%;
+}
+.SBox2 ul{
+	font-size: 95%;
+	font-weight: bold;
+	color: white;
+}
+.SBox2 ol{
+	font-size: 60%;
+	color: white;
+	font-weight: lighter;
+
+}
+.SBox3{
+	height: 35%;
+	width: 16%;
+	float: right;
+	position: relative;
+	margin-right: 7.5%;
+}
+.SBox3 ul{
+	font-size: 95%;
+	font-weight: bold;
+	color: white;
+}
+.SBox3 ol{
+	font-size: 60%;
+	color: white;
+	font-weight: lighter;
+}
+.No-8{
+	background-color: lightgrey;
+	border: 1px solid lightgrey;
+	height: 600px;
+	width: 100%;
+}
+.Text-6 ul{
+	color: grey;
+	margin-top: 2%;
+	text-align: center;
+	font-size: 250%;
+	font-weight: bold;
+
+}
+.N{
+	border-style: none;
+	border-radius: 10px;
+	margin-left: 5%;
+	padding: 2%;
+	width: 20%;
+
+}
+.Em{
+	border-style: none;
+	border-radius: 10px;
+	margin-left: 5%;
+	padding: 2%;
+	width: 20%;
+}
+.S{
+	margin-top: 3.5%;
+	border-style: none;
+	border-radius: 10px;
+	margin-left: 5%;
+	padding: 2%;
+	width: 20%;
+}
+.M{
+	padding-right: 7%;
+	padding-top: 2%;
+	padding-bottom: 7%;
+	padding-left: 2%;
+	margin-left: 10%;
+	height: 50%;
+	width: 20%;
+	border-radius: 10px;
+	border-style: none;
+}
+.B{
+	border-style: none;
+	border-radius: 10px;
+	color: floralwhite;
+	background-color: red;
+	text-align: center;
+	padding-left: 44%;
+	padding-right: 44%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-top: 5%;
+	margin-left: 4%;
+
+}
+.No-9{
+	border: 1px solid black;
+	height: 450px;
+	width: 100%;
+	background-color: black;
+}
+.Text-7 ul{
+	text-align: center;
+	color: antiquewhite;
+	font-size: 250%;
+	font-weight: bold;
+}
+.youtube1{
+	margin-top: 7%;
+	margin-left: 6%;
+	height: 30%;
+	width: 15%;
+	float: left;
+	position: relative;
+
+}
+.youtube1 ul{
+	color: gold;
+	margin-top: 30%;
+	font-size: 140%;
+}
+.youtube1 ol{
+	color: white;
+	font-size: 50%;
+}
+.Instagram{
+	margin-right: 7%;
+	margin-top: 7%;
+	height: 30%;
+	width: 15%;
+	float: right;
+	position: relative;
+
+}
+.Instagram ul{
+	color: gold;
+	margin-top: 30%;
+	font-size: 140%;
+}
+.Instagram ol{
+	color: white;
+	font-size: 50%;
+}
+.youtube2{
+	margin-right: 8%;
+	margin-top: 7%;
+	height: 30%;
+	width: 15%;
+	float: right;
+	position: relative;
+}
+.youtube2 ul{
+	color: gold;
+	margin-top: 30%;
+	font-size: 140%;
+}
+.youtube2 ol{
+	color: white;
+	font-size: 50%;
+}
+.youtube3{
+	margin-left: 8%;
+	margin-top: 7%;
+	height: 30%;
+	width: 15%;
+	float: left;
+	position: relative;
+}
+.youtube3 ul{
+	color: gold;
+	margin-top: 30%;
+	font-size: 140%;
+}
+.youtube3 ol{
+	font-size: 50%;
+	color: white;
+}
+.LT ul{
+	margin-top: 27%;
+	color: white;
+	text-align: right;
+	margin-right: 9%;
+
+}
